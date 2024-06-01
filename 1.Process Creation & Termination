@@ -26,7 +26,6 @@ int main() {
       myppid = getppid();
       printf("Process id is %d and PPID is %d\n", mypid, myppid);
       printf("Newly created process id or child pid is %d\n", pid);
-   }
-   
+   } 
    return 0;
 }
