@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h> // For exit()
-
 int main()
 {
 	FILE *fptr1, *fptr2;
